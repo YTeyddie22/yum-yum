@@ -1,7 +1,9 @@
 function Header() {
 	return (
 		<div>
-			<header>Favourite Foods</header>
+			<header className="header">
+				<h1>Favourite Foods</h1>
+			</header>
 		</div>
 	);
 }
