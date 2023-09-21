@@ -6,13 +6,13 @@ function App() {
 	const x = "Teddy";
 
 	return (
-		<>
+		<div className="container">
 			<Header />
 
 			<Menu />
 
 			<Footer />
-		</>
+		</div>
 	);
 }
 
